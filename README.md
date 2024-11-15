@@ -1,4 +1,4 @@
-<h1 align="center"> ˹ᴊᴇɴɴʏ ꭙ ᴍᴜsɪᴄ˼𓆩♡𓆪⁩ <\> </h1>
+<h1 align="center"> ˹ᴊᴇɴɴʏ ꭙ ᴍᴜsɪᴄ˼𓆩♡𓆪⁩  </h1>
 
 <p align="center">
   <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="Inflex Music Logo" width="640" height="360">
